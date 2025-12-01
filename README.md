@@ -98,4 +98,4 @@ Para levar este estudo ao próximo nível, as seguintes melhorias poderiam ser i
 * [Link para a documentação do módulo smtplib](https://docs.python.org/3/library/smtplib.html)
 * [Seu Nome - LinkedIn/Portfolio]
 
-> 🧑‍💻 Desenvolvido por [Seu Nome] - [Mês/Ano]
+> 🧑‍💻 Desenvolvido por Luiza - 11/25
