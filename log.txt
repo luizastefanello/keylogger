@@ -1,0 +1,7 @@
+	isadora
+ [ESC] isadora
+teste
+teste
+	 [Key.right]	[Key.up][Key.up][Key.right][Key.right][Key.right][Key.right][Key.right]
+    ex
+[Key.up][Key.down]
