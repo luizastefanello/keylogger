@@ -96,6 +96,6 @@ Para levar este estudo ao próximo nível, as seguintes melhorias poderiam ser i
 
 * [Link para a documentação da biblioteca pynput](https://pynput.readthedocs.io/en/latest/)
 * [Link para a documentação do módulo smtplib](https://docs.python.org/3/library/smtplib.html)
-* [Seu Nome - LinkedIn/Portfolio]
+
 
 > 🧑‍💻 Desenvolvido por Luiza - 11/25
