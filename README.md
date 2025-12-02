@@ -1,9 +1,3 @@
-O repositório que você mencionou é uma excelente base para o desafio do Keylogger.
-
-Abaixo está uma sugestão de arquivo **`README.md`** detalhado e profissional, incorporando os objetivos de aprendizado do seu desafio e seguindo a estrutura de portfólio técnico que você precisa.
-
----
-
 # 😈 Projeto de Simulação de Keylogger com Python
 
 ## ⚠️ AVISO DE SEGURANÇA E USO EDUCACIONAL
